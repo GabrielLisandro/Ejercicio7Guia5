@@ -17,6 +17,11 @@ public class Matriz {
                }
            }
        }
+      public class Perro {
+         private String raza;
+         private int edad;
+      }
+      
     
     
     
